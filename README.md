@@ -1,4 +1,5 @@
 # cifar10-CNN with TensorFlow
+## 83% accuracy, 0.5 loss
 Simple CNN using Tensorflow on the cifar10 dataset. <br>
 The dataset has 60000 labeled images and their classes are
     0: "airplane",<br>
